@@ -3,6 +3,8 @@
 The PLA4MS dataset comprises pairs of cloud and cloud-free images. GeoTIFF images captured by the Planetscope satellite, each capturing identical geographical locations on the same date, with one image depicting cloud-covered conditions and its counterpart showcasing a cloud-free scene. Fig. 4 shows the distribution of cloudy and cloud-free pairs based on cloud-cover percentage. These image pairs provide valuable data for research and development in the field of satellite image processing, particularly in addressing challenges associated with cloud cover. The dataset size is nearly 64 GB, emphasizing the substantial volume of data available within the PLA4MS. Fig. 5 provides an overview of ROIs and offers complete insights into the dataset. 
 
 
+![Fig_4](https://github.com/user-attachments/assets/5a99467f-5cbe-4a2b-9567-3d402ec6e46c)
+
 
 ![Fig_5](https://github.com/user-attachments/assets/29f27ace-5f35-49e1-b778-e80c2352fac6)
 
