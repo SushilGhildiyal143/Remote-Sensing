@@ -15,4 +15,4 @@ The PLA4MS dataset comprises pairs of cloud and cloud-free images. GeoTIFF image
 ![Fig_6](https://github.com/user-attachments/assets/b423d254-9a1e-46cf-ad51-a1b44af27f86)
 
 
-2) Dataset Availability: The PLA4MS dataset (sample dataset) can be downloaded from a stable link managed by the Indian Institute of Technology Ropar: PLA4MS dataset link (https://drive.google.com/drive/folders/1eiQ0N7qoogs9e1-EOFB2st7PLrHf-zd9). Proper citation of this article is required when utilizing the dataset for research purposes.
+2) Dataset Availability: The PLA4MS dataset (sample dataset) can be downloaded from a stable link managed by the Indian Institute of Technology Ropar: PLA4MS dataset [link](https://drive.google.com/drive/folders/1eiQ0N7qoogs9e1-EOFB2st7PLrHf-zd9). Proper citation of this article is required when utilizing the dataset for research purposes.
